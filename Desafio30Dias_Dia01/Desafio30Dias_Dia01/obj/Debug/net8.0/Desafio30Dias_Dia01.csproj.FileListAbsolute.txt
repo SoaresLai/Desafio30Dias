@@ -1,0 +1,14 @@
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\bin\Debug\net8.0\Desafio30Dias_Dia01.exe
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\bin\Debug\net8.0\Desafio30Dias_Dia01.deps.json
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\bin\Debug\net8.0\Desafio30Dias_Dia01.runtimeconfig.json
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\bin\Debug\net8.0\Desafio30Dias_Dia01.dll
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\bin\Debug\net8.0\Desafio30Dias_Dia01.pdb
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\obj\Debug\net8.0\Desafio30Dias_Dia01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\obj\Debug\net8.0\Desafio30Dias_Dia01.AssemblyInfoInputs.cache
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\obj\Debug\net8.0\Desafio30Dias_Dia01.AssemblyInfo.cs
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\obj\Debug\net8.0\Desafio30Dias_Dia01.csproj.CoreCompileInputs.cache
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\obj\Debug\net8.0\Desafio30Dias_Dia01.dll
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\obj\Debug\net8.0\refint\Desafio30Dias_Dia01.dll
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\obj\Debug\net8.0\Desafio30Dias_Dia01.pdb
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\obj\Debug\net8.0\Desafio30Dias_Dia01.genruntimeconfig.cache
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia01\Desafio30Dias_Dia01\obj\Debug\net8.0\ref\Desafio30Dias_Dia01.dll
