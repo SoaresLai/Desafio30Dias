@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Desafio30Dias_Dia06/1.0.0": {
+        "runtime": {
+          "Desafio30Dias_Dia06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio30Dias_Dia06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
