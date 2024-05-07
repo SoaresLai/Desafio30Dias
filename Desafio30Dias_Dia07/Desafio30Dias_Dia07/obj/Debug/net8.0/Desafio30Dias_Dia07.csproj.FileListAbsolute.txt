@@ -1,0 +1,15 @@
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\bin\Debug\net8.0\Desafio30Dias_Dia07.exe
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\bin\Debug\net8.0\Desafio30Dias_Dia07.deps.json
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\bin\Debug\net8.0\Desafio30Dias_Dia07.runtimeconfig.json
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\bin\Debug\net8.0\Desafio30Dias_Dia07.dll
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\bin\Debug\net8.0\Desafio30Dias_Dia07.pdb
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\Desafio30Dias_Dia07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\Desafio30Dias_Dia07.AssemblyInfoInputs.cache
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\Desafio30Dias_Dia07.AssemblyInfo.cs
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\Desafio30Dias_Dia07.csproj.CoreCompileInputs.cache
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\Desafio30Dias_Dia07.sourcelink.json
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\Desafio30Dias_Dia07.dll
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\refint\Desafio30Dias_Dia07.dll
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\Desafio30Dias_Dia07.pdb
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\Desafio30Dias_Dia07.genruntimeconfig.cache
+C:\Users\Laiane\Desktop\Minha pasta\Desafio30Dias\Desafio30Dias_Dia07\Desafio30Dias_Dia07\obj\Debug\net8.0\ref\Desafio30Dias_Dia07.dll
